@@ -1,0 +1,22 @@
+{
+  "name": "mysql-native-password",
+  "version": "1.0.0",
+  "description": "Drop in implementation of the legacy mysql_native_password authentication plugin from MySQL4.1+",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sleeyax/mysql-native-password.git"
+  },
+  "author": "Sleeyax",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/sleeyax/mysql-native-password/issues"
+  },
+  "homepage": "https://github.com/sleeyax/mysql-native-password#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
